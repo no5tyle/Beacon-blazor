@@ -1,8 +1,11 @@
-# Beacon
+# Beacon (Blazor, archived)
+
+> [!IMPORTANT]
+> This is the original Blazor version of Beacon, replaced in October 2026 and archived. Beacon has been rebuilt in Svelte and now lives at **[no5tyle/Beacon](https://github.com/no5tyle/Beacon)**, still at **https://no5tyle.github.io/Beacon/**. Please raise issues and changes there.
 
 Beacon is a phone-first helper for Scouts Australia leaders. It reads your unit's records from [Terrain](https://terrain.scouts.com.au) and turns them into the things you need at the hall: who's close to finishing what, what to programme next, and quick OAS sign offs after a unit night.
 
-It runs in the browser at **https://no5tyle.github.io/Beacon/** and can be added to your phone's Home Screen to open like an app.
+It ran in the browser at https://no5tyle.github.io/Beacon/, which now serves the new version.
 
 <p align="center">
   <img src="docs/screenshots/insights.png" width="240" alt="Insights showing OAS completion across the unit">
